@@ -53,8 +53,6 @@ Thanks for your help to keep the communication channels clean and consistent!
 
 **openvas-scanner:** (openvassd --version)
 
-**gvm-libs:**
-
 ### Environment
 
 **Operating system:**
