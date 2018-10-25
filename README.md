@@ -11,3 +11,9 @@ There are several projects that provide a readme template out there, for example
 Our template is heavily based on these two templates.
 
 The first project using this template is [gvm-tools](https://github.com/greenbone/gvm-tools#readme), which can be used as an example.
+
+## ISSUE_TEMPLATE.md
+
+The ISSUE_TEMPLATE.md is shown to the user when they create a new issue on
+GitHub. We want to ensure that users provide the necessary information and to
+redirect support questions to our community forum.
