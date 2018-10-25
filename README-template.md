@@ -20,7 +20,7 @@ optional one screenshot
 
 Use for READMEs with more than 100 lines.
 
-Include only headings after this one.
+It should start with the next section; do not include the title or Table of Contents headings.
 
 You can use [github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) or a similar tool to generate it.
 
