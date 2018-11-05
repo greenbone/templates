@@ -12,7 +12,7 @@ TODO: The readme of releases and on PyPI should be clean, so remove badges when 
 
 Short description in less than 120 characters. Use also for GitHub and package managers.
 
-Long description that explains what the project does at a high level. Background informations and features also belong here.
+Long description that explains what the project does at a high level. Background information and features also belong here.
 
 optional one screenshot
 
