@@ -38,6 +38,10 @@ Instructions for the install, for example command of package manager like
 
 Add reference on used package manager or other details so users unfamiliar with this programming language understand the context.
 
+Note the `pip` refers to the Python 3 package manager. In environment where Python 2 is also available the correct command may be `pip3`.
+
+If the installation instructions are very complex or only relevant to specific environments or use cases, consider creating a separate INSTALL.md file and [linking it here](INSTALL.md).
+
 ## Usage
 
 Code blocks illustrating common usage with explanation.
@@ -52,7 +56,7 @@ Link to longer documentation if available here.
 
 ## Support
 
-For any question on the usage of X please use the [Greenbone Community Portal](https://community.greenbone.net/c/X). If you found a problem with the software, please [create an issue](https://github.com/greenbone/X/issues) on GitHub.
+For any question on the usage of X please use the [Greenbone Community Portal](https://community.greenbone.net/c/X). If you found a problem with the software, please [create an issue](https://github.com/greenbone/X/issues) on GitHub. If you are a Greenbone customer you may alternatively or additionally forward your issue to the Greenbone Support Portal.
 
 TODO: Replace X with project references!
 
@@ -62,13 +66,26 @@ This project is maintained by [Greenbone Networks GmbH](https://www.greenbone.ne
 
 ## Contributing
 
-Your contributions are highly appreciated. Please [create a pull request](https://github.com/greenbone/X/pulls) on GitHub. For bigger changes, please discuss it first in the [issues](https://github.com/greenbone/X/issues).
+Your contributions are highly appreciated. Please [create a pull request](https://github.com/greenbone/X/pulls) on GitHub. For bigger changes, please start a discussion with the development team via the [issues section at github](https://github.com/greenbone/X/issues) first.
 
 TODO: Replace X with project references!
 
 State here if contributions are welcome. State the requirements a contribution should meet to get merged.
 
-Details about development, for example creating a dev environment or running tests, also belongs here.
+Details about development, like creating a dev environment or running tests, also belong here, for example:
+
+For development you should use [pipenv](https://pipenv.readthedocs.io/en/latest/) to keep you python packages separated in different environments. First install pipenv via pip
+
+    pip install --user pipenv
+
+Afterwards run
+
+    pipenv install --dev
+
+in the checkout directory of X (the directory containing the Pipfile) to install all dependencies including the packages only required for development.
+
+If there are more specific suggestions for development or suggestions only relevant to specific environments or use cases, consider creating a separate DEVELOPMENT.md file and [linking it here](DEVELOPMENT.md).
+
 
 ## License
 
