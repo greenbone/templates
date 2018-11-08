@@ -66,7 +66,7 @@ This project is maintained by [Greenbone Networks GmbH](https://www.greenbone.ne
 
 ## Contributing
 
-Your contributions are highly appreciated. Please [create a pull request](https://github.com/greenbone/X/pulls) on GitHub. For bigger changes, please start a discussion with the development team via the [issues section at github](https://github.com/greenbone/X/issues) first.
+Your contributions are highly appreciated. Please [create a pull request](https://github.com/greenbone/X/pulls) on GitHub. Bigger changes need to be discussed with the development team via the [issues section at github](https://github.com/greenbone/X/issues) first.
 
 TODO: Replace X with project references!
 
