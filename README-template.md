@@ -40,7 +40,7 @@ Add reference on used package manager or other details so users unfamiliar with 
 
 Note the `pip` refers to the Python 3 package manager. In environment where Python 2 is also available the correct command may be `pip3`.
 
-If the installation instructions are very complex or only relevant to specific environments or use cases, consider creating a separate INSTALL.md file and [linking it here](INSTALL.md).
+If the installation instructions are very complex or only relevant to specific environments or use cases, consider creating a separate documentation and linking it here.
 
 ## Usage
 
@@ -84,7 +84,7 @@ Afterwards run
 
 in the checkout directory of X (the directory containing the Pipfile) to install all dependencies including the packages only required for development.
 
-If there are more specific suggestions for development or suggestions only relevant to specific environments or use cases, consider creating a separate DEVELOPMENT.md file and [linking it here](DEVELOPMENT.md).
+If there are more specific suggestions for development or guidelines for contributions, consider creating a separate documentation and linking it here.
 
 
 ## License
