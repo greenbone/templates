@@ -2,11 +2,13 @@
 
 # Project Name
 
-[![GitHub releases](https://img.shields.io/github/release/greenbone/gvm-tools.svg)](https://github.com/greenbone/gvm-tools/releases)
-[![PyPI release](https://img.shields.io/pypi/v/gvm-tools.svg)](https://pypi.org/project/gvm-tools/)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/greenbone/gvm-tools/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/greenbone/gvm-tools/?branch=master)
-[![code test coverage](https://codecov.io/gh/greenbone/gvm-tools/branch/master/graph/badge.svg)](https://codecov.io/gh/greenbone/gvm-tools)
-[![CircleCI](https://circleci.com/gh/greenbone/gvm-tools/tree/master.svg?style=svg)](https://circleci.com/gh/greenbone/gvm-tools/tree/master)
+[![GitHub releases](https://img.shields.io/github/release/greenbone/PROJECT.svg)](https://github.com/greenbone/PROJECT/releases)
+[![PyPI release](https://img.shields.io/pypi/v/PROJECT.svg)](https://pypi.org/project/PROJECT/)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/greenbone/PROJECT/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/greenbone/PROJECT/?branch=master)
+[![code test coverage](https://codecov.io/gh/greenbone/PROJECT/branch/master/graph/badge.svg)](https://codecov.io/gh/greenbone/PROJECT)
+[![CircleCI](https://circleci.com/gh/greenbone/PROJECT/tree/master.svg?style=svg)](https://circleci.com/gh/greenbone/PROJECT/tree/master)
+
+TODO: Replace PROJECT with project references!
 
 TODO: The readme of releases and on PyPI should be clean, so remove badges when branching off.
 
@@ -56,9 +58,7 @@ Link to longer documentation if available here.
 
 ## Support
 
-For any question on the usage of X please use the [Greenbone Community Portal](https://community.greenbone.net/c/X). If you found a problem with the software, please [create an issue](https://github.com/greenbone/X/issues) on GitHub. If you are a Greenbone customer you may alternatively or additionally forward your issue to the Greenbone Support Portal.
-
-TODO: Replace X with project references!
+For any question on the usage of PROJECT please use the [Greenbone Community Portal](https://community.greenbone.net/c/X). If you found a problem with the software, please [create an issue](https://github.com/greenbone/PROJECT/issues) on GitHub. If you are a Greenbone customer you may alternatively or additionally forward your issue to the Greenbone Support Portal.
 
 ## Maintainer
 
@@ -66,15 +66,13 @@ This project is maintained by [Greenbone Networks GmbH](https://www.greenbone.ne
 
 ## Contributing
 
-Your contributions are highly appreciated. Please [create a pull request](https://github.com/greenbone/X/pulls) on GitHub. Bigger changes need to be discussed with the development team via the [issues section at github](https://github.com/greenbone/X/issues) first.
-
-TODO: Replace X with project references!
+Your contributions are highly appreciated. Please [create a pull request](https://github.com/greenbone/PROJECT/pulls) on GitHub. Bigger changes need to be discussed with the development team via the [issues section at GitHub](https://github.com/greenbone/PROJECT/issues) first.
 
 State here if contributions are welcome. State the requirements a contribution should meet to get merged.
 
 Details about development, like creating a dev environment or running tests, also belong here, for example:
 
-For development you should use [pipenv](https://pipenv.readthedocs.io/en/latest/) to keep you python packages separated in different environments. First install pipenv via pip
+For development, you should use [pipenv](https://pipenv.readthedocs.io/en/latest/) to keep you python packages separated in different environments. First install pipenv via pip
 
     pip install --user pipenv
 
@@ -82,7 +80,7 @@ Afterwards run
 
     pipenv install --dev
 
-in the checkout directory of X (the directory containing the Pipfile) to install all dependencies including the packages only required for development.
+in the checkout directory of PROJECT (the directory containing the Pipfile) to install all dependencies including the packages only required for development.
 
 If there are more specific suggestions for development or guidelines for contributions, consider creating a separate documentation and linking it here.
 
