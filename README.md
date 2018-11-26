@@ -17,3 +17,9 @@ The first project using this template is [gvm-tools](https://github.com/greenbon
 The ISSUE_TEMPLATE.md is shown to the user when they create a new issue on
 GitHub. We want to ensure that users provide the necessary information and to
 redirect support questions to our community forum.
+
+## License
+
+Copyright (C) 2018 [Greenbone Networks GmbH](https://www.greenbone.net/)
+
+Licensed under the [Creative Commons Attribution Share Alike 4.0 International](LICENSE) license.
