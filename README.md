@@ -18,6 +18,10 @@ The ISSUE_TEMPLATE.md is shown to the user when they create a new issue on
 GitHub. We want to ensure that users provide the necessary information and to
 redirect support questions to our community forum.
 
+## .pylintrc
+
+The .pylintrc is the configuration for [Pylint](https://www.pylint.org/) which is used to test the code quality of our python projects.
+
 ## License
 
 Copyright (C) 2018 [Greenbone Networks GmbH](https://www.greenbone.net/)
