@@ -22,6 +22,21 @@ redirect support questions to our community forum.
 
 The .pylintrc is the configuration for [Pylint](https://www.pylint.org/) which is used to test the code quality of our python projects.
 
+## pyproject.toml
+
+The `pyproject.toml` template provides a consistent specification of the minimum
+build system requirements for Python projects. The file format is specified in
+[PEP518](https://www.python.org/dev/peps/pep-0518/).
+
+The template contains configuration options for the
+[autohooks](https://github.com/bjoernricks/autohooks) framework and for the
+[black](https://github.com/ambv/black) code formatter. Together, this
+configuration makes sure that all commits are properly formatted in a consistent
+style.
+
+Note that both `autohooks` and `black` need to be present in the development
+environment for the configuration to be applied.
+
 ## License
 
 Copyright (C) 2018 [Greenbone Networks GmbH](https://www.greenbone.net/)
