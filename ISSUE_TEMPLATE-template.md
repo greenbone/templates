@@ -1,5 +1,5 @@
 <!--
-If reporting an issue please try to provide the information asked below.
+When reporting an issue, please try to provide the information asked below.
 
 Before reporting an issue please:
 
@@ -9,8 +9,8 @@ Before reporting an issue please:
 2. Make sure that you're using the latest published GVM components for the
    release you are using: https://community.greenbone.net/t/about-the-source-edition-gse-category/176
 3. Check the list of issues whether it isn't already reported.
-4. Read 1. again and if you still believe you found a software bug please
-   continue to file this issue. If you are in doubt use
+4. Read 1. again and if you still believe you found a software bug, please
+   continue to file this issue. If you are in doubt, use
    https://community.greenbone.net/c/gse instead.
 
 Thanks for your help to keep the communication channels clean and consistent!
@@ -28,7 +28,7 @@ Thanks for your help to keep the communication channels clean and consistent!
 <!--
   Did something go wrong?
   Is something broken, or not behaving as you expected?
-  Is this really a bug? If in doubt please use
+  Is this really a bug? If in doubt, please use
   https://community.greenbone.net/c/gse instead.
   Please attach screenshots if possible! They are extremely helpful for
   diagnosing issues.
@@ -63,6 +63,6 @@ Thanks for your help to keep the communication channels clean and consistent!
 
 ### Logfiles
 
-<!-- in most cases you'll find the logs in /var/log/gvm/ -->
+<!-- In most cases you'll find the logs in /var/log/gvm/ -->
 ```
 ```
