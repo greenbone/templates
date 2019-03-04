@@ -34,7 +34,7 @@ Use this section to list unusual dependencies or dependencies that must be insta
 
 ### Install using X
 
-Instructions for the install, for example command of package manager like
+Instructions for installing, for example command of package manager like
 
     pip install requests
 
@@ -58,7 +58,7 @@ Link to longer documentation if available here.
 
 ## Support
 
-For any question on the usage of PROJECT please use the [Greenbone Community Portal](https://community.greenbone.net/c/X). If you found a problem with the software, please [create an issue](https://github.com/greenbone/PROJECT/issues) on GitHub. If you are a Greenbone customer you may alternatively or additionally forward your issue to the Greenbone Support Portal.
+For any question on the usage of PROJECT please use the [Greenbone Community Portal](https://community.greenbone.net/c/X). If you found a problem with the software, please [create an issue](https://github.com/greenbone/PROJECT/issues) on GitHub. If you are a Greenbone customer, you may alternatively or additionally forward your issue to the Greenbone Support Portal.
 
 ## Maintainer
 
@@ -72,7 +72,7 @@ State here if contributions are welcome. State the requirements a contribution s
 
 Details about development, like creating a dev environment or running tests, also belong here, for example:
 
-For development, you should use [pipenv](https://pipenv.readthedocs.io/en/latest/) to keep you python packages separated in different environments. First install pipenv via pip
+For development, you should use [pipenv](https://pipenv.readthedocs.io/en/latest/) to keep your Python packages separated in different environments. First install pipenv via pip
 
     pip install --user pipenv
 
