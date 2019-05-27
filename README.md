@@ -9,7 +9,7 @@ file in the top level directory of your repository unless otherwise noted.
 
 The `.clang-format` template provides a specification for the formatting of C
 code by the `clang-format` tool. The template is compatible with `clang-format`
->= 6.0.
+version 6.0 or newer.
 
 ## ISSUE_TEMPLATE.md
 
