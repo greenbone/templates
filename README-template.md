@@ -3,10 +3,7 @@
 # Project Name
 
 [![GitHub releases](https://img.shields.io/github/release/greenbone/PROJECT.svg)](https://github.com/greenbone/PROJECT/releases)
-[![PyPI release](https://img.shields.io/pypi/v/PROJECT.svg)](https://pypi.org/project/PROJECT/)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/greenbone/PROJECT/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/greenbone/PROJECT/?branch=master)
-[![code test coverage](https://codecov.io/gh/greenbone/PROJECT/branch/master/graph/badge.svg)](https://codecov.io/gh/greenbone/PROJECT)
-[![CircleCI](https://circleci.com/gh/greenbone/PROJECT/tree/master.svg?style=svg)](https://circleci.com/gh/greenbone/PROJECT/tree/master)
+[![PyPI release](https://img.shields.io/pypi/v/PROJECT.svg)](https://pypi.org/project/PyDCF/)
 
 TODO: Replace PROJECT with project references!
 
