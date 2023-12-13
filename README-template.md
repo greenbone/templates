@@ -1,94 +1,44 @@
-![Greenbone Logo](https://www.greenbone.net/wp-content/uploads/gb_logo_resilience_horizontal.png)
+<!--
+SPDX-FileCopyrightText: 2023 Greenbone AG
 
-# Project Name
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
 
-[![GitHub releases](https://img.shields.io/github/release/greenbone/PROJECT.svg)](https://github.com/greenbone/PROJECT/releases)
-[![PyPI release](https://img.shields.io/pypi/v/PROJECT.svg)](https://pypi.org/project/PROJECT/)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/greenbone/PROJECT/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/greenbone/PROJECT/?branch=master)
-[![code test coverage](https://codecov.io/gh/greenbone/PROJECT/branch/master/graph/badge.svg)](https://codecov.io/gh/greenbone/PROJECT)
-[![CircleCI](https://circleci.com/gh/greenbone/PROJECT/tree/master.svg?style=svg)](https://circleci.com/gh/greenbone/PROJECT/tree/master)
+![Greenbone Logo](https://www.greenbone.net/wp-content/uploads/Gb_New-logo_horizontal_head.png)
 
-TODO: Replace PROJECT with project references!
+# <Greenbone Software Component>
 
-TODO: The readme of releases and on PyPI should be clean, so remove badges when branching off.
+[![GitHub releases](https://img.shields.io/github/release/greenbone/COMPONENT.svg)](https://github.com/greenbone/COMPONENT/releases)
+[![PyPI release](https://img.shields.io/pypi/v/COMPONENT.svg)](https://pypi.org/project/COMPONENT/)
 
-Short description in less than 120 characters. Use also for GitHub and package managers.
+→ Replace *Greenbone Software Component* above with the name of the component in this repository. Also, adjust all links with placeholders as necessary.
 
-Long description that explains what the project does at a high level. Background information and features also belong here.
+Start with a short description in less than 120 characters. This can be used also for the "About" section.
 
-optional one screenshot
+Add a short summary that explains what the component does at a high level. Further information on feature details, installation requirements and instructions and so on should be placed in one or more separate file(s) in the `docs/` directory.
 
-## Table of Contents
-
-Use for READMEs with more than 100 lines.
-
-It should start with the next section; do not include the title or Table of Contents headings.
-
-You can use [github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) or a similar tool to generate it.
-
-## Installation
-
-### Requirements
-
-Use this section to list unusual dependencies or dependencies that must be installed manually.
-
-### Install using X
-
-Instructions for installing, for example command of package manager like
-
-    pip install requests
-
-Add reference on used package manager or other details so users unfamiliar with this programming language understand the context.
-
-Note the `pip` refers to the Python 3 package manager. In environment where Python 2 is also available the correct command may be `pip3`.
-
-If the installation instructions are very complex or only relevant to specific environments or use cases, consider creating a separate documentation and linking it here.
-
-## Usage
-
-Code blocks illustrating common usage with explanation.
-
-For CLI tools, prefix commands with `$ ` and include example output.
-
-Use a paragraph instead of comment inside code block for explanation.
-
-For longer examples, also include runnable script and link to it here.
-
-Link to longer documentation if available here.
+Optionally, include one screenshot if the component has a user interface.
 
 ## Support
 
-For any question on the usage of PROJECT please use the [Greenbone Community Portal](https://community.greenbone.net/c/X). If you found a problem with the software, please [create an issue](https://github.com/greenbone/PROJECT/issues) on GitHub. If you are a Greenbone customer, you may alternatively or additionally forward your issue to the Greenbone Support Portal.
+Include information on how users can receive support, for example:
 
-## Maintainer
-
-This project is maintained by [Greenbone Networks GmbH](https://www.greenbone.net/).
+For any question on the usage of COMPONENT, please use the [Greenbone Community Portal](https://community.greenbone.net/c/X). If you found a problem with the software, please [create an issue](https://github.com/greenbone/COMPONENT/issues) on GitHub. If you are a Greenbone customer, you may alternatively or additionally forward your issue to the [Greenbone Support Portal](https://jira.greenbone.net/servicedesk/customer/portal/7).
 
 ## Contributing
 
-Your contributions are highly appreciated. Please [create a pull request](https://github.com/greenbone/PROJECT/pulls) on GitHub. Bigger changes need to be discussed with the development team via the [issues section at GitHub](https://github.com/greenbone/PROJECT/issues) first.
+Include information on how users can contribute, for example:
 
-State here if contributions are welcome. State the requirements a contribution should meet to get merged.
+This project is maintained by the [Greenbone AG](https://www.greenbone.net/).
 
-Details about development, like creating a dev environment or running tests, also belong here, for example:
+Your contributions are highly appreciated. Please [create a pull request](https://github.com/greenbone/COMPONENT/pulls) on GitHub. Bigger changes need to be discussed with the development team via the [issues section at GitHub](https://github.com/greenbone/COMPONENT/issues) first.
 
-For development, you should use [pipenv](https://pipenv.readthedocs.io/en/latest/) to keep your Python packages separated in different environments. First install pipenv via pip
-
-    pip install --user pipenv
-
-Afterwards run
-
-    pipenv install --dev
-
-in the checkout directory of PROJECT (the directory containing the Pipfile) to install all dependencies including the packages only required for development.
-
-If there are more specific suggestions for development or guidelines for contributions, consider creating a separate documentation and linking it here.
-
+If you would like to provide additional information such as contribution requirements or instructions for development, place them in one or more separate file(s) in the `docs/` directory.
 
 ## License
 
-Copyright (C) 2009-2018 [Greenbone Networks GmbH](https://www.greenbone.net/)
+Copyright (C) 2023 [Greenbone AG](https://www.greenbone.net/)
 
 Licensed under the [GNU General Public License v3.0 or later](LICENSE).
 
-State *license name* and *license owner*. Use the [SPDX](https://spdx.org/licenses/) *full name* or *identifier* for the license name and link to included `LICENSE` file.
+State *license name* and *copyright owner*. Use the [SPDX](https://spdx.org/licenses/) *full name* or *identifier* for the license name and link to the included `LICENSE` file containing the license text.
