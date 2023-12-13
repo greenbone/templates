@@ -27,7 +27,7 @@ For any question on the usage of COMPONENT, please use the [Greenbone Community 
 
 Include information on how users can contribute, for example:
 
-This project is maintained by [Greenbone AG](https://www.greenbone.net/).
+This project is maintained by the [Greenbone AG](https://www.greenbone.net/).
 
 Your contributions are highly appreciated. Please [create a pull request](https://github.com/greenbone/COMPONENT/pulls) on GitHub. Bigger changes need to be discussed with the development team via the [issues section at GitHub](https://github.com/greenbone/COMPONENT/issues) first.
 
