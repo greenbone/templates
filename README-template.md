@@ -11,6 +11,8 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 [![GitHub releases](https://img.shields.io/github/release/greenbone/COMPONENT.svg)](https://github.com/greenbone/COMPONENT/releases)
 [![PyPI release](https://img.shields.io/pypi/v/COMPONENT.svg)](https://pypi.org/project/COMPONENT/)
 
+→ Replace *Greenbone Software Component* above with the name of the component in this repository. Also, adjust all links with placeholders as necessary.
+
 Start with a short description in less than 120 characters. This can be used also for the "About" section.
 
 Add a short summary that explains what the component does at a high level. Further information on feature details, installation requirements and instructions and so on should be placed in one or more separate file(s) in the `docs/` directory.
