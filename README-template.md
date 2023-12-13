@@ -21,7 +21,7 @@ Optionally, include one screenshot if the component has a user interface.
 
 Include information on how users can receive support, for example:
 
-For any question on the usage of COMPONENT please use the [Greenbone Community Portal](https://community.greenbone.net/c/X). If you found a problem with the software, please [create an issue](https://github.com/greenbone/COMPONENT/issues) on GitHub. If you are a Greenbone customer, you may alternatively or additionally forward your issue to the Greenbone Support Portal.
+For any question on the usage of COMPONENT, please use the [Greenbone Community Portal](https://community.greenbone.net/c/X). If you found a problem with the software, please [create an issue](https://github.com/greenbone/COMPONENT/issues) on GitHub. If you are a Greenbone customer, you may alternatively or additionally forward your issue to the [Greenbone Support Portal](https://jira.greenbone.net/servicedesk/customer/portal/7).
 
 ## Contributing
 
