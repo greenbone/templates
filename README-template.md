@@ -6,10 +6,13 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 ![Greenbone Logo](https://www.greenbone.net/wp-content/uploads/Gb_New-logo_horizontal_head.png)
 
-# <Greenbone Software Component>
+# \<Greenbone Software Component>
 
 [![GitHub releases](https://img.shields.io/github/release/greenbone/COMPONENT.svg)](https://github.com/greenbone/COMPONENT/releases)
 [![PyPI release](https://img.shields.io/pypi/v/COMPONENT.svg)](https://pypi.org/project/COMPONENT/)
+<span class="badge-npmversion"><a href="https://npmjs.org/package/COMPONENT" title="View this project on NPM"><img src="https://img.shields.io/npm/v/COMPONENT" alt="NPM version" /></a></span>
+[![Build](https://github.com/greenbone/COMPONENT/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/greenbone/COMPONENT/actions/workflows/build.yml?query=branch%3Amain++)
+<!-- more badges you like -->
 
 → Replace *Greenbone Software Component* above with the name of the component in this repository. Also, adjust all links with placeholders as necessary.
 
