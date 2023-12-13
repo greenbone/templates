@@ -39,4 +39,4 @@ Copyright (C) 2023 [Greenbone AG](https://www.greenbone.net/)
 
 Licensed under the [GNU General Public License v3.0 or later](LICENSE).
 
-State *license name* and *copyright owner*. Use the [SPDX](https://spdx.org/licenses/) *full name* or *identifier* for the license name and link to included `LICENSE` file containing the license text.
+State *license name* and *copyright owner*. Use the [SPDX](https://spdx.org/licenses/) *full name* or *identifier* for the license name and link to the included `LICENSE` file containing the license text.
