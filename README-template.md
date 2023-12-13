@@ -6,7 +6,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 ![Greenbone Logo](https://www.greenbone.net/wp-content/uploads/Gb_New-logo_horizontal_head.png)
 
-# Greenbone Software Component
+# <Greenbone Software Component>
 
 [![GitHub releases](https://img.shields.io/github/release/greenbone/COMPONENT.svg)](https://github.com/greenbone/COMPONENT/releases)
 [![PyPI release](https://img.shields.io/pypi/v/COMPONENT.svg)](https://pypi.org/project/COMPONENT/)
